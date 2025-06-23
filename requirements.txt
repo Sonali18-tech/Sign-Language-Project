@@ -1,17 +1,6 @@
-<<<<<<< HEAD
 streamlit
 opencv-python
 mediapipe
 numpy
 gTTS
 textblob
-
-=======
-streamlit
-opencv-python
-mediapipe
-numpy
-gTTS
-textblob
-
->>>>>>> b1c0218f6a881df5288179b0eac6644528d59305
