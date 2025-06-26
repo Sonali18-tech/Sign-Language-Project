@@ -1,7 +1,6 @@
-streamlit
-opencv-python
+streamlit==1.25.0
+opencv-python==4.9.0.80
 mediapipe==0.10.11
 numpy
+gTTS
 textblob
-scikit-learn
-
