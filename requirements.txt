@@ -1,8 +1,7 @@
 streamlit
-scikit-learn
-opencv
-mediapipe
+opencv-python
+mediapipe==0.10.11
 numpy
-pandas
-gTTS
 textblob
+scikit-learn
+
