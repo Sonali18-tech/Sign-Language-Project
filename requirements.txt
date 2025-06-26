@@ -1,6 +1,6 @@
 streamlit==1.25.0
 opencv-python==4.9.0.80
-mediapipe==0.10.11
+mediapipe==0.10.21
 numpy
 gTTS
 textblob
