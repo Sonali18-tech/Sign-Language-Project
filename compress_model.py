@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # -*- coding: utf-8 -*-
 """
 Created on Mon Jun 23 21:36:07 2025
@@ -23,7 +23,7 @@ model.fit(X, y)
 with gzip.open('sign_model.pkl.gz', 'wb') as f:
     pickle.dump(model, f)
 
-=======
+
 # -*- coding: utf-8 -*-
 """
 Created on Mon Jun 23 21:36:07 2025
@@ -48,5 +48,4 @@ model.fit(X, y)
 with gzip.open('sign_model.pkl.gz', 'wb') as f:
     pickle.dump(model, f)
 
->>>>>>> f22acd9ebb50a93cf3a12d22fe83f5de857e1bc2
 print("Model saved as sign_model.pkl.gz")
